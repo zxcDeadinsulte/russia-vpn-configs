@@ -3,7 +3,7 @@
 
 [![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/zxcDeadinsulte/public-vpn-configs/stargazers)
 [![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/zxcDeadinsulte/public-vpn-configs/issues)
-[![last commit][1]][1]
+[![last commit][1]][1] 
 
 [1]: https://custom-icon-badges.demolab.com/github/last-commit/igareck/vpn-configs-for-russia?logo=history&logoColor=white&color=0e75b6&style=flat
 
