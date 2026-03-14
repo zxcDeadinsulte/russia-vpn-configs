@@ -1,6 +1,38 @@
 # public-vpn-configs
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45">  Бесплатные VPN-конфигурации, работающие в РФ 
 
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers)
+<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
+[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/igareck/vpn-configs-for-russia/issues)
+[![last commit][1]][1]
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
+[![Email](https://img.shields.io/badge/Email-igareck%40proton.me-0e75b6?logo=gmail&logoColor=white)](mailto:igareck@proton.me)
+
+
+[1]: https://custom-icon-badges.demolab.com/github/last-commit/igareck/vpn-configs-for-russia?logo=history&logoColor=white&color=0e75b6&style=flat
+
+**🌐 Язык: [Русский](README.md) | 🌐 Language: [English](README-EN-US.md) | 🌐 语言: [中文](README-ZH-CN.md) | 🌐 زبان: [فارسی](README-FA-IR.md)**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> Коллекция публичных и бесплатных, автообновляемых и автопроверяемых VPN-конфигураций, протестированных для работы на территории Российской Федерации  (`VLESS` / `VMess` / `Shadowsocks` /`Hysteria2` / `Tuic`/ `Trojan` и другие).
+
+Для обхода блокировок Роскомнадзора (РКН).
+
+Коллекция отфильтрована по категориям на черные и белые CIDR и SNI списки.
+
+Каждая конфигурация — это TXT-подписка, которую можно импортировать в любой необходимый вам клиент (`v2rayN`, `Streisand`, `Throne`, `Karing`, `NekoBox` и другие).
+
+Раз в 2 часа перед опубликованием конфиги проходят автоматические тесты на работоспособность на сервере в России, медленные и нерабочие отсеиваются. 
+
+Проводятся реальные тесты на доступность, задержку, скорость, а не просто обычная автосборка и дедупликация. С 13 ноября по 28 декабря делал все вручную - 28 декабря доделал скрипт, который автоматизировал и ускорил процесс проверки, поддерживая такой же качественный "ручной" результат.
+
+Обычные VPN (OpenVPN, WireGuard и прочее) не работают уже давно, и не влияет - платная у вас подписка или нет. 
+
+Поэтому важно использовать конфигурации, проверенные для работы именно в России, чтобы всегда оставаться онлайн.
+
+Также важно частое обновление публичных конфигов, поскольку они имеют свойство как быстро появляться - так и быстро переставать работать. Поэтому прикрутил автообновление с автопроверкой/автотестами, чтобы у каждого пользователя из России в любое время был самый свежий список с качественными VPN-конфигурациями без лишнего мусора.
+
+---
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yml0MndhcDZ6dzFuYjY3aG0yNWowN2Rqbnp1aTV2cXNvb3FvMnluMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MxryCOQuSYVVD0SPyp/giphy.gif" width="40"> Как мне воспользоваться этими конфигурациями у себя на устройстве 
 1) VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"подписку"* или *"группу подписки"* в v2rayN, Throne, v2rayNG, NekoBox, Streisand или Karing.
 
