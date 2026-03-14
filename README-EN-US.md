@@ -1,15 +1,12 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45">  Free VPN configurations that work in Russia
 
-[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers)
-<img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
-[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/igareck/vpn-configs-for-russia/issues)
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/zxcDeadinsulte/public-vpn-configs/stargazers)
+[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/zxcDeadinsulte/public-vpn-configs/issues)
 [![last commit][1]][1]
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
-[![Email](https://img.shields.io/badge/Email-igareck%40proton.me-0e75b6?logo=gmail&logoColor=white)](mailto:igareck@proton.me)
 
 [1]: https://custom-icon-badges.demolab.com/github/last-commit/igareck/vpn-configs-for-russia?logo=history&logoColor=white&color=0e75b6&style=flat
 
-**🌐 Язык: [Русский](README.md) | 🌐 Language: [English](README-EN-US.md) | 🌐 语言: [中文](README-ZH-CN.md) | 🌐 زبان: [فارسی](README-FA-IR.md)**
+**🌐 Язык: [Русский](README.md) | 🌐 Language: [English](README-EN-US.md)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> A collection of public and free, auto-updating and auto-checked VPN configurations tested to work within the Russian Federation (`VLESS` / `VMess` / `Shadowsocks` / `Hysteria2` / `Tuic` / `Trojan` and others).
 
@@ -28,3 +25,102 @@ Classic VPNs (OpenVPN, WireGuard, etc.) haven’t worked for a long time — and
 That’s why it’s important to use configurations verified to work specifically in Russia, so you can stay online.
 
 It’s also important to update public configs frequently, because they tend to appear quickly — and stop working just as quickly. That’s why I added auto-updating with auto-checking/auto-tests, so every user in Russia can always get the freshest list of high-quality VPN configurations without extra junk.
+
+## 🔴 ATTENTION FOR USERS OUTSIDE RUSSIA!
+
+❗❗❗ IF YOU ARE NOT IN RUSSIA (CHINA, IRAN, OR ANY OTHER COUNTRY), USE ONLY CONFIGURATIONS FROM THE "BLACK LIST" ("BLACK_SS+All_RUS.txt", "BLACK_VLESS_RUS.txt" and "BLACK_VLESS_RUS_mobile.txt").
+
+The "WHITE LIST" (WHITE) will NOT help you, because the "WHITE LIST" is configured ONLY to bypass specific and the strongest restrictions INSIDE Russia! For other countries, the "WHITE LIST" will be a practically non-working, slow, and useless option!
+
+The "BLACK LIST" (BLACK LIST) is an "international VPN option" and contains the fastest public configurations available on the internet!
+
+THANK YOU FOR YOUR ATTENTION!
+
+## 🧩 Apps for configs on PC and phone:
+
+###  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtqMmQxOGh0aG0waGk5OGhhNG5odmdob2k1bWc4ejNyZ3E3N2Y2bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="25"> Windows/Linux/MacOS
+
+Install the official v2rayN or Throne (successor of Nekoray) client, run it in “Administrator” mode, add a config/subscription, update it, you’ll get a list, run “real latency” checks, then sort by ping, pick a green one with the smallest number by pressing Enter, and finally enable “VPN mode / TUN mode”.
+
+**1)** **v2rayN:**
+  
+   *I recommend v2rayN because it works stably and has been proven to handle thousands of configs of different protocols at once (my personal max is 150,000). It’s the most universal client. It works using Xray, Sing-Box, Mihomo together.*
+
+   https://github.com/2dust/v2rayN/releases
+  
+   `v2rayN-windows-64.zip` for Windows
+  
+   `v2rayN-linux-64.deb` for Linux (Ubuntu)
+  
+   `v2rayN-macos-64.dmg` for MacOS
+
+**2)** **Throne (successor of Nekoray, which is no longer updated since 2024)**:
+
+*Recommended as an alternative working client after v2rayN.*
+
+   https://github.com/throneproj/Throne/releases
+
+   `Throne-1.0.8-windows64-installer.exe` for Windows
+  
+   `Throne-1.0.8-debian-x64.deb` for Linux (Ubuntu)
+  
+   `Throne-1.0.8-macos-arm64.zip` for MacOS
+
+**3)** **Karing:**
+
+   https://github.com/KaringX/karing/releases
+
+   `karing_1.2.10.1300_windows_x64.exe` for Windows
+  
+   `karing_1.2.10.1300_linux_amd64.deb` for Linux (Ubuntu)
+  
+   `karing_1.2.10.1300_macos_universal.dmg` for MacOS
+   
+**4)** **Singbox-launcher:** 
+
+  *A new client worth trying for testing VPN configurations; works together with Sing-Box. Give it a try — the developer is friendly and responsive.*
+
+   https://github.com/Leadaxe/singbox-launcher/releases
+
+   `singbox-launcher-v0.7.1-win64.zip` for Windows
+  
+   `singbox-launcher-v0.7.1-macos.zip` for MacOS
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS — use Streisand, Shadowrocket, Karing, V2Box or v2RayTun from the App Store.
+
+  I recommend Streisand: it declares no data collection in the App Store, and all features (including DNS switching) work correctly unlike many similar clients; loading and working with configs is stable.
+
+  Happ is not recommended by users due to unstable performance/ping.
+
+   **1)** `Streisand` https://apps.apple.com/us/app/streisand/id6450534064 
+   
+   *Best free iOS client with no data collection*
+
+   **2)** `Shadowrocket` https://apps.apple.com/us/app/shadowrocket/id932747118 
+   
+   *Doesn’t drop connections even after long idle time, no data collection, but paid*
+
+   **3)** `Karing` https://apps.apple.com/us/app/karing/id6472431552
+     
+   *Opinions about Karing are mixed: some like it, others have connection issues*
+
+   **4)** `V2Box` https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
+
+   **5)** `v2RayTun` https://apps.apple.com/us/app/v2raytun/id6476628951
+  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUzYWRwNzNpa3doMDd1bXo4NTlzanJsaTcya3dlNXA4d3c5cnVzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20"> Android — use v2rayNG and NekoBox from GitHub, or v2Box and v2RayTun from Google Play.
+
+ I recommend v2rayNG, because it’s an Android analogue of my favorite PC client v2rayN from the same developer “2dust”.
+
+ Also try NekoBox — users praise it.
+
+ Happ is not recommended by users due to unstable performance/ping.
+
+  **1)** `NekoBox` https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+  **2)** `v2rayNG`  https://github.com/2dust/v2rayNG/releases
+
+  **3)** `v2Box` https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box
+
+  **4)** `v2RayTun` https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
+
