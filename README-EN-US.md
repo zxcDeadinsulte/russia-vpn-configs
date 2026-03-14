@@ -36,6 +36,28 @@ The "BLACK LIST" (BLACK LIST) is an "international VPN option" and contains the 
 
 THANK YOU FOR YOUR ATTENTION!
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yml0MndhcDZ6dzFuYjY3aG0yNWowN2Rqbnp1aTV2cXNvb3FvMnluMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MxryCOQuSYVVD0SPyp/giphy.gif" width="40"> How do I use these configurations on my device?
+
+1) The most convenient way to add VPN configurations on your device is via a *“subscription”* or *“subscription group”* in v2rayN, Throne, v2rayNG, NekoBox, Streisand or Karing.
+
+2) Copy the URL of the Github txt file. After copying the link, in the app you need to press “Add from clipboard”, or use the usual “Add” button -> “Configure manually” -> type “Subscription” -> paste the link to the txt file and set a subscription name.
+
+3) Scan the subscription QR code from the next section. QR is even easier: press “Add” -> “Scan QR code” and the app will create a subscription automatically; you’ll only need to rename it on your phone and press “Update” if the config list didn’t load immediately.
+   
+   QR codes are located under the subscription link — click the arrow labeled “QR code”.
+   
+4) How to check which configs/servers are alive and working right now?
+
+   Click the whole subscription (its name at the top) or an individual config; usually you need to press and hold to bring up a menu. Choose, *attention!*, *“Test real latency”* or *“Latency”*! Not “TCP Ping” or “ICMP Ping” — those won’t show real VPN server availability. The ones that respond with green numbers are the ones to use. Pick the smallest numbers: the smaller the number, the lower the latency and the faster the server will respond.
+
+5) It is strongly recommended to enable subscription auto-update at least 2 times a day (every 12 hours), and even more often during long holidays. Configurations are updated every hour, because they stop working over time. If you enable updates, you’ll always have the freshest version of the subscription with working configs and no extra “junk”.
+
+7) Configs (especially from White lists) may not turn green immediately in the “real latency” check; very often you need to ping 2–3–4 times to see newly available servers.
+
+8) Install a few different clients on your phone — sometimes different clients will see different available servers. This is due to differences in client settings during config checks.
+
+You can also add everything manually one-by-one by copying the contents of each txt file into v2rayN and others, but subscriptions are convenient because they update automatically on your device after updates on Github — without needing to delete and copy again — simplifying the process.
+
 ## 🧩 Apps for configs on PC and phone:
 
 ###  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtqMmQxOGh0aG0waGk5OGhhNG5odmdob2k1bWc4ejNyZ3E3N2Y2bCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xUS4Fp5i6iIn2Y1EYT/giphy.gif" width="25"> Windows/Linux/MacOS
