@@ -146,3 +146,24 @@ Install the official v2rayN or Throne (successor of Nekoray) client, run it in �
 
   **4)** `v2RayTun` https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z25rOXRoeW1xODR1dWh2b3UycTd6YnB0Y2hlMTZtaDluZW1uNnl4ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CeYEKonyFQyzWhxmvd/giphy.gif" width="40"> DISCLAIMER
+
+> *The author is not the owner/developer/provider of the listed VPN configurations. This is an independent informational overview and test results.*
+>
+> *This post is not an advertisement for VPN. All material is provided for informational purposes only, and only for citizens of countries where this information is legal — at minimum for scientific purposes. If you are not allowed to read this — close this page immediately!* 
+>
+> *The author has no intentions, does not encourage, promote, or justify the use of VPN or any other programs under any circumstances.*
+>
+> *Responsibility for any use of these VPN configurations lies with the user.*
+>
+> *Disclaimer: the author is not responsible for actions of third parties and does not encourage illegal use of VPN.*
+>
+> *The author is not responsible for the accuracy, completeness, or reliability of the published data. Any coincidences are random. All information is provided “as is” and may not reflect reality.*
+>
+> *Use in accordance with local laws.* 
+>
+> *Use VPN only for legal purposes: in particular — for your online safety and secure remote access; and under no circumstances use this technology to bypass blocks.*
+>
+> *The project is non-commercial and free; all “payment” information presented here was found by chance somewhere online, copied “as is” as a possible example, and does not belong to the author.*
+>
+> *Tip: close this page, delete all VPNs from your computer, install MAX and Yandex on all devices so it “works” even in the parking lot, and use only internet resources that your ISP allows — you get it.*
