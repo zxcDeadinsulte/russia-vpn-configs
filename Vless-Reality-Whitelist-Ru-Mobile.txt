@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️
 # profile-update-interval: 5
-# Date/Time: 2026-03-14 / 23:47 (Moscow)
+# Date/Time: 2026-03-23 / 23:47 (Moscow)
 # Количество: 15
 # For more info and VPN-configs - visit: www.github.com/zxcDeadinsulte/russia-vpn-configs
 
