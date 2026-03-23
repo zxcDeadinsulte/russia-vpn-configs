@@ -5,7 +5,7 @@
 # For more info and VPN-configs - visit: www.github.com/zxcDeadinsulte/russia-vpn-configs
 
 vless://a46ac1f0-13fe-434a-94f8-5dff9067c2b7@nl.alexanderoff.ru:2203?mode=gun&security=reality&encryption=none&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&fp=chrome&type=grpc&serviceName=xyz&sni=eh.vk.com&sid=d49d578f280fd83a#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-1
-vless://a46ac1f0-13fe-434a-94f8-5dff9067c2b7@white77.alexanderoff.ru:2203?mode=gun&security=reality&encryption=none&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&fp=chrome&type=grpc&serviceName=xyz&sni=eh.vk.com&sid=d49d578f280fd83a#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-2
+vless://a46ac1f0-13fe-434a-94f8-5dff9067c2b7@white77.alexanderoff.ru:2203?mode=gun&security=reality&encryption=none&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&fp=chrome&type=grpc&serviceName=xyz&sni=eh.vk.com&sid=d49d578f280fd83a#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@nl.alexanderoff.ru:7010#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@white77.alexanderoff.ru:7010#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-4
 vless://a46ac1f0-13fe-434a-94f8-5dff9067c2b7@de.alexanderoff.ru:2204?mode=gun&security=reality&encryption=none&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&fp=chrome&type=grpc&serviceName=xyz&sni=eh.vk.com&sid=d49d578f280fd83a#%F0%9F%87%A9%F0%9F%87%AAGermany-1
