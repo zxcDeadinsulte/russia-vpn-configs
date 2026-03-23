@@ -4,13 +4,3 @@
 # Количество: 15
 # For more info and VPN-configs - visit: www.github.com/zxcDeadinsulte/russia-vpn-configs
 
-vless://f01e53cf-b1ef-4cab-8103-68dc16964306@white77.alexanderoff.ru:997?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=eh.vk.com&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a#⚡️1 до 20.03.26
-vless://f01e53cf-b1ef-4cab-8103-68dc16964306@finland3.alexanderoff.ru:997?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=eh.vk.com&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a#⚡️2 @russvpn1
-
-hysteria2://XNpIAtDnh0@ru41.alexanderoff.ru:17195?security=tls&fastopen=0#⚡️3 до 20.03.26
-
-vless://a6dbc7d4-f65e-4284-8087-dec536e77c16@ru41.alexanderoff.ru:8443?type=tcp&security=reality&pbk=y5-KzvzR8ME8xvaGeXMN5BXTUMD7IpA4dZr-rrjmoBk&sid=b782d88b91f8&fp=chrome&sni=web.max.ru&flow=xtls-rprx-vision#⚡️4 до 20.03.26
-
-ss://YWVzLTEyOC1nY206NGYzdUMvcjBTQzBvYXlvWHJBZnNvSTJFSE5VVllNMTRvWlBWUEY3VHE2Yz0=@ru41.alexanderoff.ru:1080#⚡️5 до 20.03.26
-
-vmess://eyJhZGQiOiJydTQxLmFsZXhhbmRlcm9mZi5ydSIsImFpZCI6MCwiaWQiOiJhNmRiYzdkNC1mNjVlLTQyODQtODA4Ny1kZWM1MzZlNzdjMTYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiODg4OCIsInBzIjoiVk0iLCJ0bHMiOiJub25lIiwidiI6IjIifQ==
