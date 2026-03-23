@@ -12,3 +12,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@nl.alexanderof
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@white77.alexanderoff.ru:7010#%F0%9F%87%B3%F0%9F%87%B1%20Netherlandsc%20SS%20P
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@de.alexanderoff.ru:7020#%F0%9F%87%A9%F0%9F%87%AAGerman%20SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcXduSmh1SVU2bXN6X3pfQ3pmX2tR@white77.alexanderoff.ru:7020#%F0%9F%87%A9%F0%9F%87%AAGerman%20SS%20P
+
+hysteria2://mN3VFAuhP0@ru41.alexanderoff.ru:17195?security=tls&fastopen=0#hysteria2-17195
+vless://9ebf1d8e-58b6-4dc0-8223-17787328ae92@ru41.alexanderoff.ru:8443?type=tcp&security=reality&pbk=y5-KzvzR8ME8xvaGeXMN5BXTUMD7IpA4dZr-rrjmoBk&sid=b782d88b91f8&fp=chrome&sni=web.max.ru&flow=xtls-rprx-vision#VL
+ss://YWVzLTEyOC1nY206dC9uVXAyaitWSy9mYmhLR0lEWitGZkpvT3ZrNFVYZld0U1hBTTd5cmxlWT0=@ru41.alexanderoff.ru:1080#shadowsocks-30406
+vmess://eyJhZGQiOiJydTQxLmFsZXhhbmRlcm9mZi5ydSIsImFpZCI6MCwiaWQiOiI5ZWJmMWQ4ZS01OGI2LTRkYzAtODIyMy0xNzc4NzMyOGFlOTIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiODg4OCIsInBzIjoiVk0iLCJ0bHMiOiJub25lIiwidiI6IjIifQ==
+hysteria://ru41.alexanderoff.ru:10406?downmbps=100&upmbps=100&auth=mN3VFAuhP0&security=tls&fastopen=0#HY
