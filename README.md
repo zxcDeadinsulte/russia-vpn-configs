@@ -34,8 +34,8 @@
 | Имя файла | Тип | Платформа | Протоколы | Серверов | Скачать TXT | QR-код |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | **WHITE-LIST-RUS.txt** | White List | Full | `Vless` | `20` | [📥 TXT](https://raw.githubusercontent.com/zxcDeadinsulte/russia-vpn-configs/refs/heads/main/WhiteList.txt) | [🔲 QR](https://raw.githubusercontent.com/zxcDeadInsulte/russia-vpn-configs/refs/heads/main/qr-codes/White-List+1.png) |
-| 
-        |
+| **None** | None | None | `None` | `0` | [📥 TXT](https://github.com/zxcDeadinsulte/russia-vpn-configs) | [🔲 QR](https://github.com/zxcDeadInsulte/russia-vpn-configs) |
+
 
 ---
 
