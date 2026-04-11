@@ -2,7 +2,7 @@
 #profile-title: 🏳️ White-List | Резерв [1]
 #profile-web-page-url: https://t.me/settings
 #support-url: https://t.me/settings
-#announce: 🌟 Резервный сервер ??? 🚀 tg @NO🏳️ За свободный интернет!
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
 #subscription-userinfo: upload=0; download=0; total=109951162777600; expire=1893456000
 
 vless://TMG_09d0fb4e595@138.124.67.66:443?mode=auto&path=%2FEBFgXW2C4-Jm&security=reality&encryption=none&pbk=t15wqvVznzlEGVr0r2cvdAvzgoeFf9U2Wf8lkV-CKCY&host=sun6-22.userapi.com&fp=firefox&spx=%2F&allowinsecure=0&type=xhttp&sni=sun6-22.userapi.com&sid=e6a51c772244759c#%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
