@@ -1,5 +1,5 @@
 #profile-update-interval: 3
-#profile-title: 🏳️ White-List | Резерв [1]
+#profile-title: 🏳️ White-List | Резерв
 #profile-web-page-url: https://t.me/settings
 #support-url: https://t.me/settings
 #announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
