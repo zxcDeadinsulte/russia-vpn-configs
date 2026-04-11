@@ -1,5 +1,5 @@
 #profile-update-interval: 3
-#profile-title: 🏳️ WhiteList резерв
+#profile-title: 🏳️ White-List | Резерв [1]
 #profile-web-page-url: https://t.me/settings
 #support-url: https://t.me/settings
 #announce: 🌟 Резервный сервер ??? 🚀 tg @NO🏳️ За свободный интернет!
