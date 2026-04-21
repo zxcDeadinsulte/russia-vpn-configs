@@ -1,14 +1,13 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45"> VPN Configs
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45"> SCALA VPN Configs
         
-Последнее обновление системы: `2026-04-11 00:00:00` (MSK)  
+Последнее обновление системы: `2026-04-21 17:00:00` (MSK)  
 Всего конфигураций в базе: `20`  
-Всего QR-кодов сгенерировано: `1`
 
 ---
 
 ## 📖 Введение и Терминология
 
-Добро пожаловать в репозиторий автоматизированной сборки VPN-конфигураций EaveVPN. Данный проект создан для обеспечения свободного доступа к информации и защиты личных данных. Все конфигурации проходят автоматическое тестирование скорости и доступности перед публикацией. Обновление происходит каждые 6 часов.
+Добро пожаловать в репозиторий автоматизированной сборки VPN-конфигураций ScalaVPN. Данный проект создан для обеспечения свободного доступа к информации и защиты личных данных. Все конфигурации проходят автоматическое тестирование скорости и доступности перед публикацией. Обновление происходит каждые 12 часов.
 
 Крайне важно понимать разницу между типами предоставляемых подписок, чтобы выбрать подходящий вариант для ваших нужд.
 
@@ -26,16 +25,6 @@
 * **Назначение:** **Обход блокировок Роскомнадзора** (Instagram, Facebook, Twitter, зарубежные СМИ и т.д.) без потери скорости на российских сайтах.
 * **Как это работает:** Скрипт использует современный протокол (например, VLESS Reality), который маскирует VPN-трафик под обычное посещение разрешенного сайта.
 * **Преимущество:** Российские сайты (VK, Mail.ru, банки, Госуслуги) открываются напрямую на максимальной скорости.
-
----
-
-## 🗂 Актуальные подписки
-
-| Имя файла | Тип | Платформа | Протоколы | Серверов | Скачать TXT | QR-код |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **WHITE-LIST RESERVEE.txt** | White List | Full | `Vless` | `20` | [📥 TXT](https://raw.githubusercontent.com/zxcDeadinsulte/russia-vpn-configs/refs/heads/main/WHITE-LIST+RESERVE.txt) | [🔲 QR](https://raw.githubusercontent.com/zxcDeadInsulte/russia-vpn-configs/refs/heads/main/qr-codes/White-List+1.png) |
-| **WHITE-LIST-RUS.txt** | White list | Russia | `None` | `0` | [📥 TXT](https://github.com/zxcDeadinsulte/russia-vpn-configs) | [🔲 QR](https://github.com/zxcDeadInsulte/russia-vpn-configs) |
-
 
 ---
 
@@ -143,5 +132,5 @@
 * **QR-коды**: для каждого файла конфигурации создан отдельный QR-код в папке `qr-codes/`
 * Для быстрой настройки: отсканируйте QR-код камерой или приложением.
 
-*Automated by [???](https://github.com/)*  
-*Telegram: [@](https://t.me/)*
+*Automated by [???](https://github.com/zxcDeadInsulte)*  
+*Telegram: [@](https://t.me/ScalaVPN)*
