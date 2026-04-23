@@ -1,6 +1,6 @@
 #profile-title: ScalaVPN🏔
 #profile-update-interval: 12
-#subscription-userinfo: upload=0; download=0; total=109951162777600; 
+#subscription-userinfo: upload=0; download=0; total=0; 
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn
 #announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает. Если ВПН плохо работает, то нажмите на 🔄️.
