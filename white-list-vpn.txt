@@ -3,20 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=0; 
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn
-#announce: 👉Актуальные новости проекта: @scalavpn 
-   Не работает VPN ? - нажмите 🔄 для обновления
-📍 Поддержка: @scalavpn (null)
+#announce: @scalavpn
 
-Серверы для обхода глушения расположены снизу
-
-vless://00000000-0000-0000-0000-000000000000@40scalavpn:1?path=40scalavpn&security=none&encryption=40scalavpn&host=40scalavpn&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40SCALAVPN
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40scalavpn
-
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@185.210.154.104.speed-storage.ru:573?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=185.210.154.104.speed-storage.ru#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%201
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@185.210.154.105.speed-storage.ru:573?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=185.210.154.105.speed-storage.ru#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%202
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@176.124.216.104:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=64.188.98.68.vhub.pro#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%203
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@147.45.100.149:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=212.95.39.25.vhub.pro#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%204
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@193.221.200.148.speed-storage.ru:573?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=193.221.200.148.speed-storage.ru#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@95.85.246.14.speed-storage.ru:573?mode=gun&security=tls&alpn=h2&encryption=none&fp=safari&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.14.speed-storage.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%201%20%5B%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%5D
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@95.85.246.16.speed-storage.ru:573?mode=gun&security=tls&alpn=h2&encryption=none&fp=safari&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.16.speed-storage.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%202%20%5B%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%5D
-vless://b70f0d9e-d74e-4b09-9bbe-74f967b21489@217.114.14.66.speed-storage.ru:573?mode=gun&security=tls&alpn=h2&encryption=none&fp=safari&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&sni=217.114.14.66.speed-storage.ru#%F0%9F%87%B7%F0%9F%87%BA%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%201
+WM4M>M4M44OM4M4M8ZZ4ƥjg.+rzw+ʛb~4ƥjg-KjVvyj	7v&Gv&RW@*^i+i׃
+OvOEOCOtTo,4M4OM>M4M44M4M4M4Mly˫ܧwبz'zuʗwʗr6�/;P|PP@`@A6�/;P|^4ƥjgWGw׾w[mzu^xN,h{jz.+r[بz'y\&zܩz
+rǫ'5[X+ͅx^xN,ht_;t_;�
+Ow@y_4@B@t@C@|_Mo,={޻omx|mtמ5ӛ)y~+j^y˫ܭǧr*'~!*^\ǍjgǪ
+sal-|mtמ5ӛ)y~+j]=]=mCvkz?G}{{oO~^<^n6׭t7^y˫ܭǧr*'~!*^\ǍjgǪ
+sal.=/鮁t_;t_;�
+Ow@y_4@B@t@C@|_M,={޻omxxuMx7^y˫ܭǧr*'~!*^\ǍjgǪ
+sal-wno鮁t_;t_;�
+Ow@y_4@B@t@C@|_N/,={޻omx}mM5)y~+j^y˫ܭǧr*'~!*^\ǍjgǪ
+sal-}mM5)y~+j]=]=mCCv[z?G}{{oO~^<|n:׋)y~+j^y˫ܭƥxvzw+ʛby鱧ڮ+r+x֦{alz{a`69ێ^y߬ځOEyOEu@P@ Mm9====|====,={޻omxy^h{jz.+r[ܯ*mwƟjʗ,zqZ텱ꮭ텂\['|n:׫)y~+j]=]=mCC6mp@@`@CWGw׾w[mzv׽u^:^y߬ځנ{r+eiبz'yliܩz
+rǫ'5[X+ͅx׽u^:^y߬ځOE{OE@F(;{mCC=|==�====|m5
