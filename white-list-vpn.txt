@@ -1,17 +1,30 @@
 #profile-title: ScalaVPN⛰️
 #profile-update-interval: 12
-#subscription-userinfo: upload=0; download=0; total=0; 
+#subscription-userinfo: upload=0; download=0; total=0;
 #profile-web-page-url: https://t.me/scalavpn
 #support-url: https://t.me/scalavpn?direct
 #announce: ⚠️ Если VPN не работает - обновите нажав на кнопку 🔄
 
-vless://00000000-0000-0000-0000-000000000000@40scalavpn:1?path=40scalavpn&security=none&encryption=40scalavpn&host=40scalavpn&advancedfragment=c3dvcmR3YXJlLm5ldA==&type=httpupgrade#%D0%A2%D0%93+%D0%92%D0%9F%D0%9D%D0%90+%40SCALAVPN
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%E2%AC%87%EF%B8%8F%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%E2%AC%87%EF%B8%8F%40scalavpn 
+# ==================== ГЕРМАНИЯ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%F0%9F%87%A9%F0%9F%87%AA Германия
 
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=YYQgLsZiDfnG58FysKhy2TypDbX6vYDN28yrxeSHp1Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=a95b25f3#%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%F0%9F%87%A9%F0%9F%87%AA
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%F0%9F%87%B3%F0%9F%87%B1
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%F0%9F%87%AB%F0%9F%87%AE
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@5.8.18.90:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=fXEFkFc2PjUuWtrNDzgADKNmYYP1IydNxoKep680ugI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=fcf9f8bd#%D0%A1%D0%A8%D0%90%F0%9F%87%BA%F0%9F%87%B8
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%F0%9F%87%B7%F0%9F%87%BA
+# ==================== НИДЕРЛАНДЫ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1 Нидерланды
+
+# ==================== ФИНЛЯНДИЯ ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия
+
+# ==================== США ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@5.8.18.90:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=fXEFkFc2PjUuWtrNDzgADKNmYYP1IydNxoKep680ugI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=fcf9f8bd#%F0%9F%87%BA%F0%9F%87%B8 США
+
+# ==================== ОАЭ ====================
+vless://146cd8c2-2b98-42d4-b82b-39b94c2de263@109.73.199.48:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A6%F0%9F%87%AA ОАЭ-1
+
+trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443/?type=tcp&sni=5post-gate.x5.ru&fp=random&security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&sid=aabbccdd#%F0%9F%87%A6%F0%9F%87%AA ОАЭ-2
+
+# ==================== РОССИЯ + LTE ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%F0%9F%87%B7%F0%9F%87%BA Россия
+
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=max.ru&sid=e0c61344#LTE-1%F0%9F%87%B7%F0%9F%87%BA
+
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=e0c61344#LTE-2%F0%9F%87%B7%F0%9F%87%BA
