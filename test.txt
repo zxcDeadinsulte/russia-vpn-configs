@@ -10,30 +10,34 @@ vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@193.58.121.113:5000?security=realit
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@de.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%A9%F0%9F%87%AA Германия-2
 
 # ==================== НИДЕРЛАНДЫ ====================
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1 Нидерланды-1
-# Примечание: Новый сервер с доменом fi.vz-or.com имеет флаг Нидерландов в вашем исходнике, но домен fi обычно означает Финляндию. Ниже он добавлен как Финляндия, но если это специальный роутинг, можете переименовать.
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%F0%9F%87%B1 Нидерланды-1
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@fi.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-36.userapi.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%AB%F0%9F%87%AE Финляндия-1
 
 # ==================== ФИНЛЯНДИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@144.31.47.56:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=Sej8HxV0t3wxhyz6ol--mnl1JP3kRhzSuMlYuvzaCwI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=74a8b5148033ab#%F0%9F%87%AB%F0%9F%87%AE Финляндия-2
+vless://c5e37e6f-7038-4bac-9e46-ca910d3f0545@fl-2-direct.djarbnet.ru:443?type=ws&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE Финляндия-3
 
 # ==================== США ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@5.8.18.90:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=fXEFkFc2PjUuWtrNDzgADKNmYYP1IydNxoKep680ugI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=fcf9f8bd#%F0%9F%87%BA%F0%9F%87%B8 США-1
+
+# ==================== ТУРЦИЯ ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@tr.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B9%F0%9F%87%B7 Турция-1
+
+# ==================== ПОЛЬША ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@81.85.73.17:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=f8vUGEPOgk9UexqfW_X8g12teWaiE0y3CKeUDp1Kr10&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=67#%F0%9F%87%B5%F0%9F%87%B1 Польша
 
 # ==================== РОССИЯ ====================
 vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@95.181.213.24:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=W-lwGGKSWq-tglctZadUf25xWDjKmyDqWRDEtgfMKwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amd.com&sid=d8#%F0%9F%87%B7%F0%9F%87%BA Россия-1
 vless://18233fc7-6aba-49b4-bea2-c03d9760f855@ru.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Россия-2
 
-# ==================== ТУРЦИЯ ====================
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@tr.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun9-37.userapi.com&fp=&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B9%F0%9F%87%B7 Турция-1
 
-# ==================== ПОЛЬША / МОБИЛЬНАЯ СВЯЗЬ ====================
-# В новых ссылках указан флаг Польши (%F0%9F%87%B5%F0%9F%87%B1) и домен hole*. 
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B5%F0%9F%87%B1 Мобильная связь-1
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole2.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B5%F0%9F%87%B1 Мобильная связь-2
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole3.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B5%F0%9F%87%B1 Мобильная связь-3
-vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole4.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B5%F0%9F%87%B1 Мобильная связь-4 (Megafon, Yota)
+# ==================== МОБИЛЬНАЯ СВЯЗЬ (РОССИЯ) ====================
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-1
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole2.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-2
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole3.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-3
+vless://18233fc7-6aba-49b4-bea2-c03d9760f855@hole4.vz-or.com:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=qq&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#%F0%9F%87%B7%F0%9F%87%BA Мобильная связь-4 (Megafon, Yota)
 
-# ==================== СТАРЫЕ LTE (РОССИЯ) ====================
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=max.ru&sid=e0c61344#LTE-1 %F0%9F%87%B7%F0%9F%87%BA Россия-3
-vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=e0c61344#LTE-2 %F0%9F%87%B7%F0%9F%87%BA Россия-4
+# ==================== СТАРЫЕ LTE (ЕВРОСОЮЗ) ====================
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.226.31:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=jOuXjNlD0vu0ng_KaK55zK0js7UeltKkiv_6urqsWWE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=max.ru&sid=e0c61344#%F0%9F%87%AA%F0%9F%87%BA LTE-1
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=sun1-13.userapi.com&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-2
+vless://bddfd0d8-2bed-42e3-8016-f56a2146427f@158.160.216.62:5443?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&pbk=m4nwOat-CKbfjlIFz8MTjO9VU0oFIzQAQAq7BpIm3Vo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudcdn-m9-15.cdn.yandex.net&sid=78b2#%F0%9F%87%AA%F0%9F%87%BA LTE-3
